@@ -8,6 +8,7 @@ jupyter = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+flair = "*"
 
 [dev-packages]
 
