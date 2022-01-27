@@ -1,7 +1,7 @@
 # TODOs
 
 - baseline
-    - Vader
+    - https://skimai.com/fine-tuning-bert-for-sentiment-analysis/
 - bert
     - german bert
     - distilled?
