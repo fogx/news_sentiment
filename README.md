@@ -22,7 +22,7 @@ Um noch eine größere Datenbasis hinsichtlich Nachrichtenartikeln zu haben, wur
 
 ## Baseline
 Als Baseline verwenden wir die zwei gängigen Ansätze term-frequency-inverse document frequency (tf-idf) und valence aware dictionary and sentiment reasoner (VADER).
-Aus den Ergebnissen des tf-idf Modells lässt sich festhalten, dass die Klassifizierung der positiven Tweets deutlich besser funktioniert als die der negativen und dass das Modell bei Apple besser funktioniert als bei BioNTech. Dies ist nicht überraschen, das sowohl der Apple Datensatz deutlich größer ist als der von BioNTech und auch die positiven Tweets in der Mehrheit sind.
+Aus den Ergebnissen des tf-idf Modells lässt sich festhalten, dass die Klassifizierung der positiven Tweets deutlich besser funktioniert als die der negativen und dass das Modell bei Apple besser funktioniert als bei BioNTech. Dies ist nicht überraschend, da sowohl der Apple Datensatz deutlich größer ist als der von BioNTech und auch die positiven Tweets in der Mehrheit sind.
 Die Ergebnisse des VADER Modells sind etwas schwieriger zu vergleichen, da es drei Klassen gibt. Der Großteil der Tweets wird neutral bewertet und Positive besser klassifiziert als Negative. Dennoch bildet VADER den tatsächlichen Verlauf des Sentiments gut ab.
 
 Die Ergebnisse der Baselinemodelle auf Basis der Nachrichtenartikel sind wenig zufriedenstellend. VADER klassifiziert sowohl den Titel als auch den Nachrichtentext größtenteils falsch und bei tf-idf werden alle Artikel positiv klassifiziert.
