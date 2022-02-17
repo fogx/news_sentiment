@@ -10,6 +10,10 @@ matplotlib = "*"
 seaborn = "*"
 flair = "*"
 openpyxl = "*"
+germansentiment = "*"
+datasets = "*"
+wandb = "*"
+tensorflow = "*"
 
 [dev-packages]
 
