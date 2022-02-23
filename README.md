@@ -1,3 +1,4 @@
+![Sentiment Analysis header image](preview/sentiment_analysis.jpg)
 # News Sentiment Analysis – Natural Language Processing mit Transformern
 
 ## Einleitung
