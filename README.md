@@ -47,3 +47,9 @@ Darüber hinaus ist es sehr schwierig das Sentiment eines Textes zu beziehen. Di
 Zu den weiteren Herausforderungen gehören, dass Colab memory Probleme hat bei vielen und langen Texten. Dass die maximale Input Größe bei BERT 512 Charakter beträgt, ist ebenfalls schwierig. 
 
 Die niedrige Accuracy auf den Testdaten macht auch die Anwendung in der Realität schwierig. Es werden weitere gelabelte Daten benötigt, um ein genaueres Modell zu entwickeln.
+
+## Authors:
+Jonas Peltner, Jule Schüttler, Awais Malik, Laura Jaetzold, Leon Wolf
+
+## Course:
+Natural Lanugage Processing with Transformers, opencampus.sh, Winter 21/22
